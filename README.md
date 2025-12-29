@@ -42,14 +42,6 @@ Renames and sorts files inside folders:
 ### ✅ Level 3: GUI Interface with Tkinter
 Choose folders, run sorting, and see results — all through a simple graphical interface.
 
----
-
-### ✅ What to Replace
-| Placeholder               | Replace With |
-|--------------------------|--------------|
-| `krishpansara`          | Your GitHub username |
-| `krishpanasara9265@gmail.com`   | Your email |
-| `www.linkedin.com/in/krishpansara`    | Your LinkedIn profile |
 
 ---
 
