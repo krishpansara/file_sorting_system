@@ -2,8 +2,8 @@
 
 This project is a **File Sorting System** built using **Python** and **Tkinter (GUI)**. It helps users organize files in a selected directory by:
 
-🔹 **Level 1**: Sorting files by their **file extensions** in selected folder
-🔹 **Level 2**: Sorting files inside folders in **alphabetical order** in selected folder and subfolders
+🔹 **Level 1**: Sorting files by their **file extensions** in selected folder <br>
+🔹 **Level 2**: Sorting files inside folders in **alphabetical order** in selected folder and subfolders  <br>
 🔹 **Level 3**: Combining both features in a **user-friendly GUI**
 
 ---
